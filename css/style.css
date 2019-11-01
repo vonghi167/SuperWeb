@@ -1,0 +1,276 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+html, body {
+	width: 100%;
+	height: 100%;
+	font-family: 'Roboto+Condensed';
+	font-size: 28px;
+	color: #222;
+	line-height: 0.5;
+}
+
+.navbar {
+	background-color: rgba(82,64,120,1) !important;
+	  line-height : 1px;	
+}
+.navbar li a {
+    color: rgba(255,255,255,1) !important;
+}
+.navbar li a:hover {
+    color: black !important;
+}
+.carousel-inner img {
+	width: 100%;
+}
+.navbar-nav ml-auto{
+	font-family: 'Mansalva';
+}
+.carousel-caption {
+	position: absolute;
+	top: 30%;
+}
+.carousel-caption h1 {
+	color:rgba(82,64,120,1) !important;
+	font-size: 200%;
+	text-transform: uppercase;
+}
+.carousel-caption h3 {
+	color:rgba(82,64,120,1) !important;
+
+	font-size: 100%;	
+}
+.display-2 {
+	font-size: 50%;
+	
+}
+
+	
+.social a {
+	font-size: 2.5rem;
+	padding: 1rem;
+	line-height: 1;
+}
+.col-12 h3{
+	font-size: 250%;
+	
+}
+.col-12{
+	font-size: 30%;
+	
+}
+.fa-facebook {
+	color: #3b5998;
+}
+.fa-twitter {
+	color: #00aced;	
+}
+.fa-youtube {
+	color: #bb0000;
+}
+footer {
+	
+	color: rgba(82,64,120,1);
+	font-size: 60%;	
+	
+}
+.h5, h5 {
+    font-size: 1rem;
+}
+hr.light {
+	border-top: 1px solid #d5d5d5;
+	width: 55%;
+	
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: -1rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 2;
+    color: inherit;
+}
+.col-md-4{
+	line-height : 10px;	
+}
+.light-100 {
+	border-top: 1px solid #d5d5d5;
+	width: 100%;
+}
+h1.bread {
+	font-size: 150%;
+}
+.tab-content {
+    font-size: 18px;
+	line-height: 1;
+}
+.body_design h6 {
+	 font-size: 23px;
+	 line-height: -1px;
+}
+.nav-tabs li{
+	font-size: 20px;
+}
+.mb-10 {
+	font-size: 40px;
+}
+.card-header h5{
+	font-size: 20px;
+}
+.cards img {
+	width: 100%;
+}
+.cards h5{
+	font-size : 18px;
+	text-transform: uppercase;
+}
+.cards p {
+	font-size : 15px;
+}
+.cards a {
+	font-size : 15px;
+}
+.justify-content-center button{
+	font-size : 15px;
+}
+.padding p {
+	font-size : 13px;
+}
+.navbar-expand-md{
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.navbar-expand-md .navbar-nav .nav-link {
+    padding-right: 3.5rem;
+    padding-left: .5rem;
+}
+.justify-content-center h3{
+	font-size: 30px;
+    margin-top: 6px;
+    margin-bottom: -4px;
+    margin-left: 40px;
+}
+.bg-lightlab{
+	background-color: #ffffff!important;
+}
+.skill-mf {
+	font-size: 10px;
+}
+.about_info{
+	font-size: 20px;
+}
+.about_short_contact_wrap{
+	font-size: 15px;
+}
+.text-center h4{
+	font-size: 25px;
+}	
+.navbar-light .navbar-nav .nav-link.active{
+	padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 15px;
+    padding-left: 15px;
+	background-color: #999;
+}	
+.navbar-light .navbar-nav .nav-link {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.navbar1 {
+	background-color: #333!important;
+    line-height: 10px;
+}
+.navbar1 li a {
+    color: rgba(255,255,255,1) !important;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+.navbar1 li a:hover {
+   background-color:#d1090b!important;
+}
+.navbar-dark{
+
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 3.5rem;
+    padding-left: 3.5rem;
+}
+.navbar-dark .navbar-nav .nav-link.active{
+	padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 15px;
+    padding-left: 15px;
+	background-color:#d1090b;
+
+}
+.navbar-dark .navbar-nav .nav-link{
+	padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.tinesport h4{
+	font-size :30px;	
+}
+.entry-title a{
+	font-size :25px;	
+	 color:#d1090b !important;
+}
+.entry-title a:hover{
+	color: black !important;
+}
+.btn11 {
+	font-size : 38px;
+}
+.navbar2 {
+	background-color: #333!important;
+    line-height: 10px;
+}
+.navbar2 li a {
+    color: rgba(255,255,255,1) !important;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+.navbar2 li a:hover {
+   background-color:#d1090b!important;
+}
+.form{
+	font-size:40px;
+
+}
+.form-inline{	
+	padding-left: 460px;	
+}
+.btn11{
+	color: white !important;
+	padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 15px;
+    padding-left: 15px;
+	background-color:#e0a600 !important;
+}
+.btn11:hover{
+	color: black !important;
+}
+.btn10 {
+	 color: #ffffff !important;	
+	background-color: red;
+}
+.btn10:hover{
+	color: #242424 !important;
+}
+.btn9 {
+	 color: #ffffff !important;	
+	background-color: red;
+}
+.btn9:hover{
+	color: #242424 !important;
+}
+}
+
+
+
+
+
