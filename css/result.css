@@ -1,0 +1,17 @@
+
+.card-header ul li a{
+	font-weight: 500;
+	color: #060606;
+}
+
+nav-link.hover {
+    color: #fcff18;
+}
+
+nav-link.active {
+    color: #495057;
+}
+
+.altenate ul li span{
+	background-color:#fcff18; 
+}
