@@ -447,7 +447,7 @@ Header section
 
 .main-menu li {
 	display: inline-block;
-	padding-top: 33px;
+	padding-top: 6%;
 }
 
 .main-menu li a {
@@ -714,12 +714,12 @@ Footer section
 }
 
 .footer-widget {
-	margin-bottom: 50px;
+	margin-bottom: 20px;
 }
 
 .footer-widget h4 {
 	color: #fff;
-	margin-bottom: 30px;
+	margin-bottom: 17px;
 }
 
 .footer-widget .fw-info-box img {
