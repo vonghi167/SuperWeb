@@ -35,7 +35,7 @@ body { font-family:Arial, Helvetica, sans-serif; }
 .dropdown-content1{
    display: none;
    position: absolute;
-   background-color: #f5f5f5;
+   background-color: #244188;
    z-index: 1;
    list-style: none;
 }
@@ -46,7 +46,7 @@ body { font-family:Arial, Helvetica, sans-serif; }
     background: none repeat scroll 0 0 #f4f4f4;
 }
 .header-area a {
-    color: #888;
+    color: #fff;
 }
 .user-menu ul {
     list-style: outside none none;
@@ -58,7 +58,7 @@ body { font-family:Arial, Helvetica, sans-serif; }
 }
 .user-menu li a {
     display: block;
-    font-size: 13px;
+    font-size: 17px;
     margin-right: 5px;
     padding: 10px;
 }
@@ -412,7 +412,7 @@ z-index: 999;}
     border-radius: 5px;
     color: #fff;
     display: block;
-    font-size: 16px;
+    font-size: 10px;
     left: 10%;
     margin: 0;
     padding: 10px;
@@ -420,7 +420,9 @@ z-index: 999;}
     text-align: center;
     text-transform: uppercase;
     border: 1px solid #5a88ca;
-    width: 80%;z-index: 99;transition: .4s;
+    width: 80%;
+    z-index: 99;
+    transition: .4s;
 }
 .product-hover a:hover {
   background: #000;
@@ -568,10 +570,7 @@ z-index: 999;}
 }
 .product-widget-area .zigzag-bottom{background: #f4f4f4;}
 .footer-top-area .zigzag-bottom{background: #f4f4f4}
-.footer-top-area {background: none repeat scroll 0 0 #333;
-color: #999;
-padding-top: 2%;
-}
+.footer-top-area {/* background: none repeat scroll 0 0 #333; */color: #999;padding-top: 2%;}
 
 
 .footer-bottom-area {background: #000;color: #fff}
@@ -579,9 +578,10 @@ padding-top: 2%;
   color: #5a88ca;
 }
 .footer-wid-title {
-  font-family: raleway;
+  /* font-family: raleway; */
   font-size: 30px;
-  font-weight: 100;color: #fff
+  font-weight: 100;
+  color: #fff;
 }
 
 .footer-about-us h2 {
@@ -598,7 +598,8 @@ padding-top: 2%;
 }
 .footer-menu a {
     display: block;
-    padding: 5px 0;color: #999
+    padding: 5px 0;
+    color: #fff;
 }
 
 
@@ -641,7 +642,7 @@ padding-top: 2%;
     margin-top: 25px;
 }
 a {color: #5a88ca}
-a:hover, a:focus {color: #17a78b}
+a:hover, a:focus {/* color: #17a78b; */}
 .footer-bottom-area {
   background: none repeat scroll 0 0 #000;
   color: #fff;
